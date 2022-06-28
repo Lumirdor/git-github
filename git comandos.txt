@@ -6,6 +6,7 @@ git init //Inicializa git en el directorio donde estoy
 git status -s //muestra el listado de archivos controlados
 git add index.html //Agrega el archivo al area de staging (temporal)
 git commit -m //pasa el archivo al area temporal -m es para poner un mensaje
+git add .// Agrega todos los archivos al repositorio
 
 
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
